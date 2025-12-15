@@ -3,4 +3,23 @@ Protocol is a set of standarized rules which governs how data is transmitted ove
 
 Q.no.2
 The difference between web browser and search engine are:
-1.
+- A web browser is a software application for accessing information on WWW.
+-Foe example Chrome ,Firefox ,safari.
+-It allows to access and display websites.
+Search Engine
+-
+SSearch engine is a software system which is designed to search for information on WWW. 
+- For example Google, Bing, Yahoo.
+-It allows for searching and filtering websites.
+
+Q.no.3
+Client- selver architecture consists of two components. They are client and server. Client is a device which request services and server is a software application or specialized computer which provides services to the client. For example, when we served for a video, the client sends a request to the Youtube server and finds the videos and it is displayed to the user device.
+
+Q.no.4
+The function of the following are:
+- E-mail : It is used to send and receive messages text and file attachments over the Internet SNMP is used for sending the message and POP 3 or IMAP is used for retrieving the message.
+- FTP : It is used to transfer files between computer over the network.
+- Voip : It is A technology which allows voice communication over the Internet it converts voice signals into digital data packets And back into the analog signal before it reaches the destination.
+
+5
+The Internet is called ‘Network of Networks’ because it is a global network of computers that are linked together by cables and telephone lines making communication possible among them. It can be defined as a global network over a million smaller heterogeneous computer networks. • The network which consists of thousands of networks spanning the entire globe is known as the Internet. • The Internet is a worldwide collection of networked computers which are able to exchange information with each other very quickly. •
