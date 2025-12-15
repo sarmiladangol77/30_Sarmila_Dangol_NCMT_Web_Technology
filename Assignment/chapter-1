@@ -3,19 +3,17 @@ Protocol is a set of standarized rules which governs how data is transmitted ove
 
 Q.no.2
 The difference between web browser and search engine are:
+Web Browser
 - A web browser is a software application for accessing information on WWW.
 -Foe example Chrome ,Firefox ,safari.
 -It allows to access and display websites.
 Search Engine
--
-Search engine is a software system which is designed to search for information on WWW. 
+ -Search engine is a software system which is designed to search for information on WWW. 
 - For example Google, Bing, Yahoo.
 -It allows for searching and filtering websites.
 
 Q.no.3
-
 WWWW stands for World Wide Web. It Refers to all the public websites or pages which users can access on their local devices and computers through the Internet. WWW is a part of the Internet.
-
 
 Q.no.4
 Client- selver architecture consists of two components. They are client and server. Client is a device which request services and server is a software application or specialized computer which provides services to the client. For example, when we served for a video, the client sends a request to the Youtube server and finds the videos and it is displayed to the user device.
@@ -30,7 +28,6 @@ Q.no.6
 The Internet is called ‘Network of Networks’ because it is a global network of computers that are linked together by cables and telephone lines making communication possible among them. It can be defined as a global network over a million smaller heterogeneous computer networks. • The network which consists of thousands of networks spanning the entire globe is known as the Internet.The Internet is a worldwide collection of networked computers which are able to exchange information with each other very quickly. 
 
 Q.no.7.
-
 If startup company who wants to host a website that displays the same information to all visitors and requires very low maintenance costs should be advice to use the static websites. Dynamic websites are used for changing information and news. Additionally it requires server side processing d,atabases which increases complexity. As the company wants to display the same information to all the visitors ,static websites are suitable as it is used to display the same and information that are unchangable to the visitors.
 
 Q.no.8.
