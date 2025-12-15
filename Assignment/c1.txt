@@ -1,5 +1,0 @@
-Web Browser is a software application which is installed on devices.
-Eg. Google Chrome, Safari.
-
-Search Engine is a website which is accessed through browser.
-Eg. google, yahoo.
