@@ -1,1 +1,54 @@
-chapter 2
+Q.no.1 
+AA site map is a visual or text based plan that shows the structure and hierarchy of all pages on a website. It acts like a blueprint.
+
+Q.no.2
+The purpose of launch phase in web development is to make the website officially live and accessible to general public.
+
+Q.no.3
+Documentation is important in development life cycle because it provides detailed records and guides for websites design functionality, code and maintenance procedures. It is also useful for future reference.
+
+Q.no.4
+The difference between front end and backint are as follows:
+  1)Frontend
+
+-Frontend focuses on user facing part of the website.
+-For example STML, CSS and JavaScript. 
+-It is used to build visual layout and interactive elements.
+Backend 
+ -It focuses on server side logic and overall functionality of a website. 
+ -For example Python, Java, Nodejs.
+-It is used to manage data, handle user request and interact with database.
+
+Q.no.5
+pPlanning is most critical phase of web development because it provides essential foundation for all the phases and ensures clear goals and minimizes costly changes which may occur in the future. The activities performed during planning phase are:
+ -Information gathering 
+ -Scope definition
+ -Site map creation 
+ -Wireframing or Prototyping 
+ -Technology selection 
+ -Timeline and Budgeting.
+
+Q.no.6
+The phase of "Maintenance phase" is never truly finished because maintenance phase involves continuous monitoring ,updating and refining the website over and over again and again When a website is officially launched to the users it is the first step of maintenance process We need to check and review the website by collating customers feedback with evolving technologies security risks and attacks are also increasing day by day which is more reason for us to maintain our website securities.
+
+Q.no.7
+Information gathering is one of the key activities performed during planning phase.It is the initial process of planning .Without clear understanding of the target audience planning may not be efficient and even though if our website is launched it may fail due to lack of knowledge on target audience .For example if our website is for children under five years we may need to plan and design our website in a more colorful fun and interactive way which may attract children's eyes Similarly languages should be in a simple way.
+
+Q.no.8
+
+If I am a project manager for a new ecommerce site and client wants to skip testing phase to save money and launch early, I'll persuade the client by making him understand that skipping testing phase, it introduces risks and it will likely cost even more money in the future than it may cost now. Testing phase helps us to identify any kinds of mistakes and error before they are detected by the user. Testing phase is crucial and it must be performed before the Launch phase. It helps to ensure that the functionality, responsiveness  and navigation function properly.
+
+Q.no.9.
+
+A developer begins coding a website immediately after meeting client without creating a design prototype or site map. Midway through, the client rejects the layout. The major problem is that the developer skipped the planning and designing phase. It is the initial and most crucial phase before website development. The developer did not gather proper information and skip website development process . The developer should have first created a sitemap and design prototype and  only after the client sees it and approvesit , the developer should have started developing process.
+
+Q.no.10.
+
+A university website was launched successfully after 6 months but students stop visiting it because exam schedules were updated. I,n this website development lifecycle the phase of "Maintenance" was ignored .The activities involved in maintenance phase are :
+-Content updates
+-Performance monitoring
+-Bug fixing s
+-Security patches 
+-Feature enhancement.
+
+
