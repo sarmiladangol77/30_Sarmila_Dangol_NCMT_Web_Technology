@@ -1,1 +1,43 @@
 Chapter 3
+Q.no.1
+Information architecture is a way of structuring and organizing content on a website to help the users find information.
+
+Q.no.2
+Wireframe is a visual guide or a blueprint which source the layout and structure of a website. It focuses where elements such as navigation content areas and buttons will go.
+
+Q.no.3
+Cognitive function is a mental effort that a user needs to put while using a website good web design aims to minimize cognitive friction.
+
+Q.no.4
+URL slogs use hyphens instead of underscore because swords engines like Google treat hyphens as word separators making URL easier to read and understand while underscores are consider  to be a single which is less effective for SEO.
+
+Q.no5.
+The difference between hierarchical and linear are as follows:
+Hierarchical
+-It organizes contents from general to complex sites example E commerce store
+-It organizes contents from general to specific it is suitable for large and complex sites
+-For example E commerce store
+Linear
+-It guides users to a fixed path.
+-It is suitable for completing a steps in a specific order.
+-For example online checkout process.
+
+Q.no.6
+The "3 click rule " suggests that a user should be able to find any information on a website within 3 MOUSE clicks .It is important because it helps to prevent user frustration which may lead to site abandonment.
+
+Q.no.7
+Card sorting helps designer understand how users think and structure the websites navigation based on user expectation .Flowchart is a visual representation of step by step instruction of an algorithm it helps to identify missing steps and ensures a smooth and logical flow before development begins therefore before planning any website researching and information gathering must be done.
+
+Q.no.8
+If we are designing a website for a university and it has spaces such as admissions departments alumni news the moral structure that will be based is a hierarchical structural model .It is suitable because it is scalable and as the site grows categories can be handled users will have clear guide which lists to which pages Therefore it provides clear understandable and logical structure.
+
+Q.no.9
+A user visits a website but lives within 10 seconds because they cannot find navigation menu which is hidden behind a small icon on a desktop screen the reason for this is due to lack of KISS principle. This principle suggests that a website works best if they are kept simple rather than complicated .It leads to cognitive friction as the users have to source for the navigation menu they may feel irritation with list to website abortment.
+
+Q.no.10.
+Any commerce website has a URL structure like www.shop.com/prod?id=55&cat=9 . It is bad for both user and search engine because the user cannot understand get the URL users cannot tell if the page is about product or category .It creates confusion among users for SEO Uh as you prefers clean URL's in the given URL full information is not given it can cause issues with short engine scrollers which may make website not reachable to the users.
+
+
+
+
+
